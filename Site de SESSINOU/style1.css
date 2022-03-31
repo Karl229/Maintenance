@@ -1,0 +1,17 @@
+
+.content .card{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+ .content .card.left {
+    flex:00 30%;
+    padding: 20px;
+    color: rgb(231, 223, 223);
+    background-color:white;
+}
+.content .card.right img{
+    
+    margin-top: 5px;
+    background-attachment: fixed;
+}
